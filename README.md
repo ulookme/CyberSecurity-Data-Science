@@ -1,0 +1,2 @@
+# CyberSecurity-Data-Science
+Use machine learning to classify malware. Malware analysis 101. Set up a cybersecurity lab environment. Learn how to tackle data class imbalance. Unsupervised anomaly detection. End-to-end deep neural networks for malware classification. Create a machine learning Intrusion Detection System (IDS). Employ machine learning for offensive security. Learn how to address False Positive constraints. Break a CAPTCHA system using machine learning.
